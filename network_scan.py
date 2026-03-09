@@ -197,9 +197,9 @@ print(main_table)
 
 # 新設備偵測（以 MAC 為主）
 if full_scan:
-    current_macs = [device["mac"] for device in devices]   # mac 在第 3 個
+    current_macs = [device["2"] for device in devices]   # mac 在第 3 個
 else:
-    current_macs = [device["ip"] for device in devices]   # mac 在第 2 個
+    current_macs = [device["1"] for device in devices]   # mac 在第 2 個
 
 try:
     with open("known_devices.json", "r", encoding="utf-8") as f:
@@ -208,9 +208,9 @@ except:
     known_macs = []
 
 if full_scan:
-    new_devices = [device for device in devices if device["mac"] not in known_macs]
+    new_devices = [device for device in devices if device["2"] not in known_macs]
 else:
-    new_devices = [device for device in devices if device["ip"] not in known_macs]
+    new_devices = [device for device in devices if device["1"] not in known_macs]
 
 if new_devices:
     print()
