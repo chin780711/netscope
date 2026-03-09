@@ -1,0 +1,59 @@
+﻿No,IP Address,Hostname,MAC Address,Vendor,Device Type
+1,192.168.1.1,-,04:bc:9f:57:82:74,Calix Inc.,Network Device
+2,192.168.1.51,-,08:54:11:91:ad:c3,"Hangzhou Hikvision Digital Technology Co.,Ltd.",Unknown
+3,192.168.1.52,-,08:54:11:91:ae:bc,"Hangzhou Hikvision Digital Technology Co.,Ltd.",Unknown
+4,192.168.1.53,-,08:54:11:91:b0:7d,"Hangzhou Hikvision Digital Technology Co.,Ltd.",Unknown
+5,192.168.1.54,-,08:54:11:91:af:ea,"Hangzhou Hikvision Digital Technology Co.,Ltd.",Unknown
+6,192.168.1.55,-,08:54:11:91:ad:64,"Hangzhou Hikvision Digital Technology Co.,Ltd.",Unknown
+7,192.168.1.56,-,08:54:11:91:ad:4b,"Hangzhou Hikvision Digital Technology Co.,Ltd.",Unknown
+8,192.168.1.57,-,f0:00:00:ee:a8:2f,Unknown,Unknown
+9,192.168.1.58,-,f0:00:00:ee:a8:17,Unknown,Unknown
+10,192.168.1.100,-,54:64:de:75:59:64,u-blox AG,Unknown
+11,192.168.1.101,-,d0:76:8f:97:d8:66,Calix Inc.,Network Device
+12,192.168.1.103,-,12:05:e2:fb:62:2f,Unknown,Unknown
+13,192.168.1.104,-,da:8e:3a:91:b5:68,Unknown,Unknown
+14,192.168.1.105,BRW2C98112BE7C9,2c:98:11:2b:e7:c9,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,Printer
+15,192.168.1.107,-,f0:20:ff:2f:6c:f5,Intel Corporate,Computer
+16,192.168.1.108,-,a6:69:0f:f2:a4:22,Unknown,Unknown
+17,192.168.1.109,-,72:46:bf:c6:86:98,Unknown,Unknown
+18,192.168.1.110,-,42:60:c2:5d:33:fa,Unknown,Unknown
+19,192.168.1.113,-,42:d4:79:6f:26:3e,Unknown,Unknown
+20,192.168.1.114,-,f0:20:ff:2f:72:6d,Intel Corporate,Computer
+21,192.168.1.118,-,d0:76:8f:97:ca:ce,Calix Inc.,Network Device
+22,192.168.1.123,-,d0:76:8f:97:d8:7f,Calix Inc.,Network Device
+23,192.168.1.126,-,d0:76:8f:97:cc:22,Calix Inc.,Network Device
+24,192.168.1.128,-,4a:03:18:b9:e4:64,Unknown,Unknown
+25,192.168.1.133,-,d0:3f:27:90:24:d7,Wyze Labs Inc,Unknown
+26,192.168.1.134,-,98:25:4a:4b:3d:90,TP-Link Systems Inc,Unknown
+27,192.168.1.135,-,d6:e7:b7:fc:f6:09,Unknown,Unknown
+28,192.168.1.138,-,36:de:4b:4d:d9:64,Unknown,Unknown
+29,192.168.1.140,-,00:11:62:33:55:af,"STAR MICRONICS CO.,LTD.",Unknown
+30,192.168.1.141,-,20:59:a0:26:21:3d,Paragon Technologies Inc.,Unknown
+31,192.168.1.143,-,84:b4:d2:03:64:e8,"Shenzhen iComm Semiconductor CO.,LTD",Unknown
+32,192.168.1.145,-,24:9a:d8:c2:3e:61,"YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.",Unknown
+33,192.168.1.146,-,46:f7:67:7b:0b:d6,Unknown,Unknown
+34,192.168.1.148,-,36:de:4b:4d:d9:64,Unknown,Unknown
+35,192.168.1.149,-,4e:52:31:fe:11:db,Unknown,Unknown
+36,192.168.1.157,-,12:9f:7a:5b:34:23,Unknown,Unknown
+37,192.168.1.158,-,d0:3f:27:90:24:e0,Wyze Labs Inc,Unknown
+38,192.168.1.170,-,82:a0:7b:5c:19:54,Unknown,Unknown
+39,192.168.1.182,MyLaptopJuan.home.local,b4:b5:b6:f3:41:db,"CHONGQING FUGUI ELECTRONICS CO.,LTD.",Unknown
+40,192.168.1.184,-,7e:12:12:68:e2:9c,Unknown,Unknown
+41,192.168.1.188,-,d8:63:0d:a0:45:e1,"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.",Unknown
+42,192.168.1.189,-,d8:63:0d:a0:46:1b,"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.",Unknown
+43,192.168.1.190,-,20:59:a0:28:34:87,Paragon Technologies Inc.,Unknown
+44,192.168.1.197,-,9a:8b:ec:d4:ba:ae,Unknown,Unknown
+45,192.168.1.199,-,62:b7:49:ec:d6:01,Unknown,Unknown
+46,192.168.1.201,-,7a:93:86:05:b5:ea,Unknown,Unknown
+47,192.168.1.204,-,20:59:a0:28:33:e7,Paragon Technologies Inc.,Unknown
+48,192.168.1.210,-,d8:63:0d:a0:46:00,"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.",Unknown
+49,192.168.1.218,-,d8:63:0d:a0:46:38,"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.",Unknown
+50,192.168.1.230,-,4e:ba:11:d8:a5:4a,Unknown,Unknown
+51,192.168.1.233,-,b0:99:d7:fe:0c:bb,"Samsung Electronics Co.,Ltd",Phone / Mobile
+52,192.168.1.236,-,52:8e:1e:dd:bc:33,Unknown,Unknown
+53,192.168.1.238,-,f4:ce:23:bb:2b:05,Intel Corporate,Computer
+54,192.168.1.239,-,46:84:b9:b1:1c:87,Unknown,Unknown
+55,192.168.1.242,-,d0:76:8f:97:c3:c6,Calix Inc.,Network Device
+56,192.168.1.245,-,00:a5:54:05:48:35,Intel Corporate,Computer
+57,192.168.1.248,-,aa:30:51:26:b2:9d,Unknown,Unknown
+58,192.168.1.249,-,fc:9f:fd:24:35:70,"Hangzhou Hikvision Digital Technology Co.,Ltd.",Unknown
