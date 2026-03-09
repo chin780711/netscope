@@ -1,0 +1,8 @@
+scapy
+mac-vendor-lookup
+rich
+socket
+ipaddress
+mac_vendor_lookup
+time
+json
