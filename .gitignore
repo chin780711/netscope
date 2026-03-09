@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# scan results
+scan_result.csv
+known_devices.json
+
+# OS files
+.DS_Store
+Thumbs.db
