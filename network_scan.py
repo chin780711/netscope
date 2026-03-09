@@ -253,3 +253,7 @@ print("掃描耗時:", scan_time, "秒")
 
 # print("\n[bold cyan]掃描結果已匯出成 scan_result.csv[/bold cyan]")
 # print("[bold cyan]已更新 known_devices.json[/bold cyan]")
+
+
+if __name__ == "__main__":
+    main()
