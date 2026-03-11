@@ -1,0 +1,584 @@
+[
+  {
+    "timestamp": "2026-03-10 23:54:00",
+    "device_count": 10,
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "2c:c1:f4:14:b9:a1",
+        "vendor": "Nokia Solutions and Networks India Private Limited",
+        "device_type": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.66",
+        "mac": "ce:5b:66:93:85:99",
+        "vendor": "-",
+        "device_type": "-",
+        "status": "Suspicious",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.67",
+        "mac": "b4:b5:b6:f3:41:db",
+        "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+        "device_type": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.71",
+        "mac": "1e:e1:8f:58:48:b0",
+        "vendor": "-",
+        "device_type": "-",
+        "status": "Suspicious",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.73",
+        "mac": "f8:34:41:8a:3d:51",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.75",
+        "mac": "be:e2:74:94:ac:8a",
+        "vendor": "-",
+        "device_type": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.76",
+        "mac": "e0:c2:64:b2:f3:bd",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.86",
+        "mac": "b8:8a:ec:7b:f5:00",
+        "vendor": "Nintendo Co.,Ltd",
+        "device_type": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.106",
+        "mac": "4c:cf:7c:9b:40:5e",
+        "vendor": "HP Inc.",
+        "device_type": "Computer",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.118",
+        "mac": "00:15:18:14:36:f0",
+        "vendor": "Shenzhen 10MOONS Technology Development CO.,Ltd",
+        "device_type": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 00:04:28",
+    "device_count": 9,
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "hostname": "webgui.nokiawifi.com",
+        "mac": "2c:c1:f4:14:b9:a1",
+        "vendor": "Nokia Solutions and Networks India Private Limited",
+        "device_type": "Web Device / Server",
+        "open_ports": "22,80,443",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.67",
+        "hostname": "MyLaptopJuan",
+        "mac": "b4:b5:b6:f3:41:db",
+        "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+        "device_type": "-",
+        "open_ports": "445",
+        "status": "Suspicious",
+        "risk_level": "High",
+        "risk_score": 6
+      },
+      {
+        "ip": "192.168.1.71",
+        "hostname": "-",
+        "mac": "1e:e1:8f:58:48:b0",
+        "vendor": "-",
+        "device_type": "-",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.73",
+        "hostname": "-",
+        "mac": "f8:34:41:8a:3d:51",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.75",
+        "hostname": "-",
+        "mac": "be:e2:74:94:ac:8a",
+        "vendor": "-",
+        "device_type": "-",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.76",
+        "hostname": "-",
+        "mac": "e0:c2:64:b2:f3:bd",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.86",
+        "hostname": "-",
+        "mac": "b8:8a:ec:7b:f5:00",
+        "vendor": "Nintendo Co.,Ltd",
+        "device_type": "-",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.106",
+        "hostname": "HP9B405E",
+        "mac": "4c:cf:7c:9b:40:5e",
+        "vendor": "HP Inc.",
+        "device_type": "Computer",
+        "open_ports": "80,443,9100",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.118",
+        "hostname": "-",
+        "mac": "00:15:18:14:36:f0",
+        "vendor": "Shenzhen 10MOONS Technology Development CO.,Ltd",
+        "device_type": "-",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 00:19:17",
+    "device_count": 8,
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "hostname": "webgui.nokiawifi.com",
+        "mac": "2c:c1:f4:14:b9:a1",
+        "vendor": "Nokia Solutions and Networks India Private Limited",
+        "device_type": "Web Device / Server",
+        "open_ports": "22,80,443",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.67",
+        "hostname": "MyLaptopJuan",
+        "mac": "b4:b5:b6:f3:41:db",
+        "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+        "device_type": "-",
+        "open_ports": "445",
+        "status": "Suspicious",
+        "risk_level": "High",
+        "risk_score": 6
+      },
+      {
+        "ip": "192.168.1.73",
+        "hostname": "-",
+        "mac": "f8:34:41:8a:3d:51",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.76",
+        "hostname": "-",
+        "mac": "e0:c2:64:b2:f3:bd",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.86",
+        "hostname": "-",
+        "mac": "b8:8a:ec:7b:f5:00",
+        "vendor": "Nintendo Co.,Ltd",
+        "device_type": "-",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.106",
+        "hostname": "HP9B405E",
+        "mac": "4c:cf:7c:9b:40:5e",
+        "vendor": "HP Inc.",
+        "device_type": "Computer",
+        "open_ports": "80,443,9100",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.118",
+        "hostname": "-",
+        "mac": "00:15:18:14:36:f0",
+        "vendor": "Shenzhen 10MOONS Technology Development CO.,Ltd",
+        "device_type": "-",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.136",
+        "hostname": "-",
+        "mac": "56:1d:1e:9b:4e:5e",
+        "vendor": "-",
+        "device_type": "-",
+        "open_ports": "-",
+        "status": "Suspicious",
+        "risk_level": "Medium",
+        "risk_score": 4
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 00:36:12",
+    "device_count": 6,
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "2c:c1:f4:14:b9:a1",
+        "vendor": "Nokia Solutions and Networks India Private Limited",
+        "device_type": "Unknown / Unclassified Device",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.67",
+        "mac": "b4:b5:b6:f3:41:db",
+        "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+        "device_type": "Unknown / Unclassified Device",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.71",
+        "mac": "1e:e1:8f:58:48:b0",
+        "vendor": "-",
+        "device_type": "Unknown / Unclassified Device",
+        "status": "Suspicious",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.76",
+        "mac": "e0:c2:64:b2:f3:bd",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.86",
+        "mac": "b8:8a:ec:7b:f5:00",
+        "vendor": "Nintendo Co.,Ltd",
+        "device_type": "Unknown / Unclassified Device",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.106",
+        "mac": "4c:cf:7c:9b:40:5e",
+        "vendor": "HP Inc.",
+        "device_type": "Computer",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 00:37:01",
+    "device_count": 6,
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "hostname": "webgui.nokiawifi.com",
+        "mac": "2c:c1:f4:14:b9:a1",
+        "vendor": "Nokia Solutions and Networks India Private Limited",
+        "device_type": "Unknown / Unclassified Device",
+        "open_ports": "22,80,443",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.66",
+        "hostname": "-",
+        "mac": "ce:5b:66:93:85:99",
+        "vendor": "-",
+        "device_type": "Randomized / Private MAC Device",
+        "open_ports": "-",
+        "status": "Suspicious",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.67",
+        "hostname": "MyLaptopJuan",
+        "mac": "b4:b5:b6:f3:41:db",
+        "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+        "device_type": "Unknown / Unclassified Device",
+        "open_ports": "445",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 5
+      },
+      {
+        "ip": "192.168.1.73",
+        "hostname": "-",
+        "mac": "f8:34:41:8a:3d:51",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "New",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.86",
+        "hostname": "-",
+        "mac": "b8:8a:ec:7b:f5:00",
+        "vendor": "Nintendo Co.,Ltd",
+        "device_type": "Unknown / Unclassified Device",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.106",
+        "hostname": "HP9B405E",
+        "mac": "4c:cf:7c:9b:40:5e",
+        "vendor": "HP Inc.",
+        "device_type": "Computer",
+        "open_ports": "80,443,9100",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 00:40:35",
+    "device_count": 7,
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "hostname": "webgui.nokiawifi.com",
+        "mac": "2c:c1:f4:14:b9:a1",
+        "vendor": "Nokia Solutions and Networks India Private Limited",
+        "device_type": "Unknown / Unclassified Device",
+        "open_ports": "22,80,443",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.67",
+        "hostname": "MyLaptopJuan",
+        "mac": "b4:b5:b6:f3:41:db",
+        "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+        "device_type": "Unknown / Unclassified Device",
+        "open_ports": "445",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 5
+      },
+      {
+        "ip": "192.168.1.71",
+        "hostname": "-",
+        "mac": "1e:e1:8f:58:48:b0",
+        "vendor": "-",
+        "device_type": "Randomized / Private MAC Device",
+        "open_ports": "-",
+        "status": "Suspicious",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.73",
+        "hostname": "-",
+        "mac": "f8:34:41:8a:3d:51",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.76",
+        "hostname": "-",
+        "mac": "e0:c2:64:b2:f3:bd",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "New",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.86",
+        "hostname": "-",
+        "mac": "b8:8a:ec:7b:f5:00",
+        "vendor": "Nintendo Co.,Ltd",
+        "device_type": "Unknown / Unclassified Device",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.106",
+        "hostname": "HP9B405E",
+        "mac": "4c:cf:7c:9b:40:5e",
+        "vendor": "HP Inc.",
+        "device_type": "Computer",
+        "open_ports": "80,443,9100",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 00:48:22",
+    "device_count": 6,
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "hostname": "webgui.nokiawifi.com",
+        "mac": "2c:c1:f4:14:b9:a1",
+        "vendor": "Nokia Solutions and Networks India Private Limited",
+        "device_type": "Possible Server / Network Appliance",
+        "open_ports": "22,80,443",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      },
+      {
+        "ip": "192.168.1.67",
+        "hostname": "MyLaptopJuan",
+        "mac": "b4:b5:b6:f3:41:db",
+        "vendor": "CHONGQING FUGUI ELECTRONICS CO.,LTD.",
+        "device_type": "Unknown",
+        "open_ports": "445",
+        "status": "Suspicious",
+        "risk_level": "High",
+        "risk_score": 6
+      },
+      {
+        "ip": "192.168.1.71",
+        "hostname": "-",
+        "mac": "1e:e1:8f:58:48:b0",
+        "vendor": "-",
+        "device_type": "Randomized / Private MAC Device",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.76",
+        "hostname": "-",
+        "mac": "e0:c2:64:b2:f3:bd",
+        "vendor": "Intel Corporate",
+        "device_type": "Computer",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Low",
+        "risk_score": 2
+      },
+      {
+        "ip": "192.168.1.86",
+        "hostname": "-",
+        "mac": "b8:8a:ec:7b:f5:00",
+        "vendor": "Nintendo Co.,Ltd",
+        "device_type": "Unknown",
+        "open_ports": "-",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 3
+      },
+      {
+        "ip": "192.168.1.106",
+        "hostname": "HP9B405E",
+        "mac": "4c:cf:7c:9b:40:5e",
+        "vendor": "HP Inc.",
+        "device_type": "Printer",
+        "open_ports": "80,443,9100",
+        "status": "Known",
+        "risk_level": "Medium",
+        "risk_score": 4
+      }
+    ]
+  }
+]
