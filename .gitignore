@@ -7,7 +7,7 @@ __pycache__/
 
 # scan results
 scan_result.csv
-known_devices.json
+scan_history.json
 
 # OS files
 .DS_Store
