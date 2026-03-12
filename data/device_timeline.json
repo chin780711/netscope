@@ -4033,29 +4033,29 @@
   },
   "webgui.nokiawifi.com": {
     "first_seen": "2026-03-12 01:33:12",
-    "last_seen": "2026-03-12 01:40:29",
-    "seen_count": 4,
+    "last_seen": "2026-03-12 02:06:26",
+    "seen_count": 5,
     "last_ip": "192.168.1.1",
     "last_hostname": "-"
   },
   "mylaptopjuan": {
     "first_seen": "2026-03-12 01:33:12",
-    "last_seen": "2026-03-12 01:40:29",
-    "seen_count": 4,
+    "last_seen": "2026-03-12 02:06:26",
+    "seen_count": 5,
     "last_ip": "192.168.1.67",
     "last_hostname": "-"
   },
   "-": {
     "first_seen": "2026-03-12 01:33:12",
-    "last_seen": "2026-03-12 01:40:29",
-    "seen_count": 13,
+    "last_seen": "2026-03-12 02:06:26",
+    "seen_count": 18,
     "last_ip": "192.168.1.118",
     "last_hostname": "-"
   },
   "hp9b405e": {
     "first_seen": "2026-03-12 01:33:12",
-    "last_seen": "2026-03-12 01:40:29",
-    "seen_count": 4,
+    "last_seen": "2026-03-12 02:06:26",
+    "seen_count": 5,
     "last_ip": "192.168.1.106",
     "last_hostname": "-"
   }

@@ -4,7 +4,7 @@ from mac_vendor_lookup import MacLookup
 from rich import print
 import time
 
-from storage import (
+from core.storage import (
     load_known_devices,
     save_known_devices,
     load_scan_history,
@@ -15,11 +15,11 @@ from storage import (
     save_device_timeline,
     update_device_timeline,
 )
-from scanner import lookup_vendor, resolve_hostname, scan_ports
-from device_detection import detect_device_type
+from core.scanner import lookup_vendor, resolve_hostname, scan_ports
+from core.device_detection import detect_device_type
 from config import TRUSTED_DEVICES
-from risk_analysis import calculate_risk, get_device_status
-from reports import (
+from core.risk_analysis import calculate_risk, get_device_status
+from core.reports import (
     build_main_table,
     build_new_device_table,
     show_network_changes,
