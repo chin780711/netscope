@@ -1,8 +1,7 @@
 import json
 import time
 import os
-from config import KNOWN_DEVICES_FILE
-from config import SCAN_HISTORY_FILE
+from config import KNOWN_DEVICES_FILE, SCAN_HISTORY_FILE, DEVICE_TIMELINE_FILE
 
 
 # 讀取 known devices
@@ -75,6 +74,10 @@ def build_scan_snapshot(devices, full_scan=False):
                 status,
                 risk_level,
                 risk_score,
+                risk_reason,
+                first_seen,
+                last_seen,
+                seen_count,
             ) = device
             snapshot.append(
                 {
@@ -87,19 +90,42 @@ def build_scan_snapshot(devices, full_scan=False):
                     "status": status,
                     "risk_level": risk_level,
                     "risk_score": risk_score,
+                    "risk_reason": risk_reason,
+                    "first_seen": first_seen,
+                    "last_seen": last_seen,
+                    "seen_count": seen_count,
                 }
             )
         else:
-            ip, mac, vendor, device_type, status, risk_level, risk_score = device
+            (
+                ip,
+                hostname,
+                mac,
+                vendor,
+                device_type,
+                status,
+                risk_level,
+                risk_score,
+                risk_reason,
+                first_seen,
+                last_seen,
+                seen_count,
+            ) = device
+
             snapshot.append(
                 {
                     "ip": ip,
+                    "hostname": hostname,
                     "mac": mac,
                     "vendor": vendor,
                     "device_type": device_type,
                     "status": status,
                     "risk_level": risk_level,
                     "risk_score": risk_score,
+                    "risk_reason": risk_reason,
+                    "first_seen": first_seen,
+                    "last_seen": last_seen,
+                    "seen_count": seen_count,
                 }
             )
 
@@ -120,3 +146,56 @@ def compare_with_last_scan(history, current_snapshot):
     removed = [d for d in last_snapshot if d["mac"] not in new_macs]
 
     return added, removed
+
+
+def load_device_timeline():
+    if not os.path.exists(DEVICE_TIMELINE_FILE):
+        return {}
+
+    try:
+        with open(DEVICE_TIMELINE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            if isinstance(data, dict):
+                return data
+    except (json.JSONDecodeError, OSError):
+        pass
+
+    return {}
+
+
+def save_device_timeline(timeline):
+    try:
+        with open(DEVICE_TIMELINE_FILE, "w", encoding="utf-8") as f:
+            json.dump(timeline, f, indent=2, ensure_ascii=False)
+    except OSError as e:
+        print(f"儲存 {DEVICE_TIMELINE_FILE} 失敗: {e}")
+
+
+def update_device_timeline(devices, full_scan, timeline):
+    now = time.strftime("%Y-%m-%d %H:%M:%S")
+
+    for device in devices:
+        if full_scan:
+            mac = device[2].lower()
+            ip = device[0]
+            hostname = device[1]
+        else:
+            mac = device[1].lower()
+            ip = device[0]
+            hostname = "-"
+
+        if mac not in timeline:
+            timeline[mac] = {
+                "first_seen": now,
+                "last_seen": now,
+                "seen_count": 1,
+                "last_ip": ip,
+                "last_hostname": hostname,
+            }
+        else:
+            timeline[mac]["last_seen"] = now
+            timeline[mac]["seen_count"] += 1
+            timeline[mac]["last_ip"] = ip
+            timeline[mac]["last_hostname"] = hostname
+
+    return timeline

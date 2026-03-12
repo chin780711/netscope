@@ -1,23 +1,26 @@
 from rich.table import Table
 from rich import print
-
+import csv
 
 # 建立主掃描表格
+
+
 def build_main_table(devices, full_scan=False):
     table = Table(title="NetScope LAN Scanner")
 
     table.add_column("#", justify="right")
     table.add_column("IP Address", style="green")
-
-    if full_scan:
-        table.add_column("Hostname")
-
+    table.add_column("Hostname")
     table.add_column("MAC Address")
     table.add_column("Vendor")
     table.add_column("Device Type")
     table.add_column("Status")
     table.add_column("Risk")
     table.add_column("Score", justify="right")
+    table.add_column("Reason")
+    table.add_column("First Seen")
+    table.add_column("Last Seen")
+    table.add_column("Seen Count", justify="right")
 
     if full_scan:
         table.add_column("Open Ports")
@@ -34,7 +37,12 @@ def build_main_table(devices, full_scan=False):
                 status,
                 risk_level,
                 risk_score,
+                risk_reason,
+                first_seen,
+                last_seen,
+                seen_count,
             ) = device
+
             table.add_row(
                 str(i),
                 ip,
@@ -45,19 +53,41 @@ def build_main_table(devices, full_scan=False):
                 status,
                 risk_level,
                 str(risk_score),
-                open_ports,
+                risk_reason,
+                first_seen,
+                last_seen,
+                str(seen_count),
             )
         else:
-            ip, mac, vendor, device_type, status, risk_level, risk_score = device
+            (
+                ip,
+                hostname,
+                mac,
+                vendor,
+                device_type,
+                status,
+                risk_level,
+                risk_score,
+                risk_reason,
+                first_seen,
+                last_seen,
+                seen_count,
+            ) = device
+
             table.add_row(
                 str(i),
                 ip,
+                hostname,
                 mac,
                 vendor,
                 device_type,
                 status,
                 risk_level,
                 str(risk_score),
+                risk_reason,
+                first_seen,
+                last_seen,
+                str(seen_count),
             )
 
     return table
@@ -69,16 +99,17 @@ def build_new_device_table(new_devices, full_scan=False):
 
     table.add_column("#", justify="right")
     table.add_column("IP Address", style="green")
-
-    if full_scan:
-        table.add_column("Hostname")
-
+    table.add_column("Hostname")
     table.add_column("MAC Address")
     table.add_column("Vendor")
     table.add_column("Device Type")
     table.add_column("Status")
     table.add_column("Risk")
     table.add_column("Score", justify="right")
+    table.add_column("Reason")
+    table.add_column("First Seen")
+    table.add_column("Last Seen")
+    table.add_column("Seen Count", justify="right")
 
     if full_scan:
         table.add_column("Open Ports")
@@ -95,7 +126,12 @@ def build_new_device_table(new_devices, full_scan=False):
                 status,
                 risk_level,
                 risk_score,
+                risk_reason,
+                first_seen,
+                last_seen,
+                seen_count,
             ) = device
+
             table.add_row(
                 str(i),
                 ip,
@@ -106,19 +142,42 @@ def build_new_device_table(new_devices, full_scan=False):
                 status,
                 risk_level,
                 str(risk_score),
+                risk_reason,
+                first_seen,
+                last_seen,
+                str(seen_count),
                 open_ports,
             )
         else:
-            ip, mac, vendor, device_type, status, risk_level, risk_score = device
+            (
+                ip,
+                hostname,
+                mac,
+                vendor,
+                device_type,
+                status,
+                risk_level,
+                risk_score,
+                risk_reason,
+                first_seen,
+                last_seen,
+                seen_count,
+            ) = device
+
             table.add_row(
                 str(i),
                 ip,
+                hostname,
                 mac,
                 vendor,
                 device_type,
                 status,
                 risk_level,
                 str(risk_score),
+                risk_reason,
+                first_seen,
+                last_seen,
+                str(seen_count),
             )
 
     return table
@@ -162,10 +221,14 @@ def export_csv(devices, full_scan=False, filename="scan_result.csv"):
                         "MAC Address",
                         "Vendor",
                         "Device Type",
+                        "Open Ports",
                         "Status",
                         "Risk",
                         "Score",
-                        "Open Ports",
+                        "Reason",
+                        "First Seen",
+                        "Last Seen",
+                        "Seen Count",
                     ]
                 )
 
@@ -180,7 +243,66 @@ def export_csv(devices, full_scan=False, filename="scan_result.csv"):
                         status,
                         risk_level,
                         risk_score,
+                        risk_reason,
+                        first_seen,
+                        last_seen,
+                        seen_count,
                     ) = device
+
+                    writer.writerow(
+                        [
+                            i,
+                            ip,
+                            hostname,
+                            mac,
+                            vendor,
+                            device_type,
+                            open_ports,
+                            status,
+                            risk_level,
+                            risk_score,
+                            risk_reason,
+                            first_seen,
+                            last_seen,
+                            seen_count,
+                        ]
+                    )
+
+            else:
+                writer.writerow(
+                    [
+                        "No",
+                        "IP Address",
+                        "Hostname",
+                        "MAC Address",
+                        "Vendor",
+                        "Device Type",
+                        "Status",
+                        "Risk",
+                        "Score",
+                        "Reason",
+                        "First Seen",
+                        "Last Seen",
+                        "Seen Count",
+                    ]
+                )
+
+                for i, device in enumerate(devices, start=1):
+                    (
+                        ip,
+                        hostname,
+                        mac,
+                        vendor,
+                        device_type,
+                        status,
+                        risk_level,
+                        risk_score,
+                        risk_reason,
+                        first_seen,
+                        last_seen,
+                        seen_count,
+                    ) = device
+
                     writer.writerow(
                         [
                             i,
@@ -192,38 +314,10 @@ def export_csv(devices, full_scan=False, filename="scan_result.csv"):
                             status,
                             risk_level,
                             risk_score,
-                            open_ports,
-                        ]
-                    )
-
-            else:
-                writer.writerow(
-                    [
-                        "No",
-                        "IP Address",
-                        "MAC Address",
-                        "Vendor",
-                        "Device Type",
-                        "Status",
-                        "Risk",
-                        "Score",
-                    ]
-                )
-
-                for i, device in enumerate(devices, start=1):
-                    ip, mac, vendor, device_type, status, risk_level, risk_score = (
-                        device
-                    )
-                    writer.writerow(
-                        [
-                            i,
-                            ip,
-                            mac,
-                            vendor,
-                            device_type,
-                            status,
-                            risk_level,
-                            risk_score,
+                            risk_reason,
+                            first_seen,
+                            last_seen,
+                            seen_count,
                         ]
                     )
 

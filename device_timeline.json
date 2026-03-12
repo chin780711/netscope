@@ -1,0 +1,4062 @@
+{
+  "2c:c1:f4:14:b9:a1": {
+    "first_seen": "2026-03-11 02:59:46",
+    "last_seen": "2026-03-12 01:42:11",
+    "seen_count": 7,
+    "last_ip": "192.168.1.1",
+    "last_hostname": "webgui.nokiawifi.com"
+  },
+  "b4:b5:b6:f3:41:db": {
+    "first_seen": "2026-03-11 02:59:46",
+    "last_seen": "2026-03-12 01:42:11",
+    "seen_count": 9,
+    "last_ip": "192.168.1.67",
+    "last_hostname": "MyLaptopJuan"
+  },
+  "1e:e1:8f:58:48:b0": {
+    "first_seen": "2026-03-11 02:59:46",
+    "last_seen": "2026-03-12 01:11:56",
+    "seen_count": 4,
+    "last_ip": "192.168.1.71",
+    "last_hostname": "-"
+  },
+  "e0:c2:64:b2:f3:bd": {
+    "first_seen": "2026-03-11 02:59:46",
+    "last_seen": "2026-03-11 03:03:49",
+    "seen_count": 3,
+    "last_ip": "192.168.1.76",
+    "last_hostname": "-"
+  },
+  "b8:8a:ec:7b:f5:00": {
+    "first_seen": "2026-03-11 02:59:46",
+    "last_seen": "2026-03-12 01:42:11",
+    "seen_count": 7,
+    "last_ip": "192.168.1.86",
+    "last_hostname": "-"
+  },
+  "4c:cf:7c:9b:40:5e": {
+    "first_seen": "2026-03-11 02:59:46",
+    "last_seen": "2026-03-12 01:42:11",
+    "seen_count": 7,
+    "last_ip": "192.168.1.106",
+    "last_hostname": "HP9B405E"
+  },
+  "22:7d:33:80:d1:3a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.2",
+    "last_hostname": "-"
+  },
+  "36:cd:10:26:b6:48": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.3",
+    "last_hostname": "-"
+  },
+  "6e:4b:a0:96:e2:e7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.5",
+    "last_hostname": "-"
+  },
+  "22:a4:04:15:9d:9e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.8",
+    "last_hostname": "-"
+  },
+  "72:5f:13:b5:7e:94": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.9",
+    "last_hostname": "-"
+  },
+  "f2:50:fb:25:fd:47": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.11",
+    "last_hostname": "-"
+  },
+  "1c:57:dc:6b:5b:d8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.12",
+    "last_hostname": "-"
+  },
+  "48:68:4a:33:87:9f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.13",
+    "last_hostname": "-"
+  },
+  "56:77:e2:f7:31:90": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.15",
+    "last_hostname": "-"
+  },
+  "9a:10:c3:69:6c:2d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.18",
+    "last_hostname": "-"
+  },
+  "9c:b6:d0:90:9e:ab": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.20",
+    "last_hostname": "-"
+  },
+  "d0:3c:1f:99:20:41": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.21",
+    "last_hostname": "-"
+  },
+  "16:3c:d4:54:6e:82": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.23",
+    "last_hostname": "-"
+  },
+  "ac:74:b1:ab:71:ce": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.24",
+    "last_hostname": "-"
+  },
+  "0e:32:c1:8c:89:7b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.30",
+    "last_hostname": "-"
+  },
+  "b6:2e:48:9c:e7:98": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.34",
+    "last_hostname": "-"
+  },
+  "26:8b:24:ad:61:88": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.37",
+    "last_hostname": "-"
+  },
+  "a6:aa:b2:09:a3:08": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.39",
+    "last_hostname": "-"
+  },
+  "8a:f2:05:7f:6c:4b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.40",
+    "last_hostname": "-"
+  },
+  "da:8a:c3:8d:80:9a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.42",
+    "last_hostname": "-"
+  },
+  "ee:45:11:3b:e4:e8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.45",
+    "last_hostname": "-"
+  },
+  "8c:99:e6:55:2e:dc": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.52",
+    "last_hostname": "-"
+  },
+  "2e:a6:49:9e:27:cc": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.55",
+    "last_hostname": "-"
+  },
+  "a6:9c:76:85:c6:25": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.56",
+    "last_hostname": "-"
+  },
+  "66:fc:9a:1b:b9:7a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.60",
+    "last_hostname": "-"
+  },
+  "4a:c3:f2:02:08:3b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.61",
+    "last_hostname": "-"
+  },
+  "9e:43:e1:a2:ae:a3": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.65",
+    "last_hostname": "-"
+  },
+  "90:61:ae:29:a5:f4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.67",
+    "last_hostname": "-"
+  },
+  "0a:54:aa:9b:34:bf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.68",
+    "last_hostname": "-"
+  },
+  "da:f2:6d:8b:b6:1e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.70",
+    "last_hostname": "-"
+  },
+  "c2:82:c5:00:b4:5d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.73",
+    "last_hostname": "-"
+  },
+  "ae:fc:29:a9:c7:75": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.74",
+    "last_hostname": "-"
+  },
+  "56:1e:b3:bc:c3:82": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.76",
+    "last_hostname": "-"
+  },
+  "62:e9:be:b3:71:62": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.77",
+    "last_hostname": "-"
+  },
+  "9a:ad:17:cd:72:f8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.78",
+    "last_hostname": "-"
+  },
+  "aa:34:93:78:68:d0": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.84",
+    "last_hostname": "-"
+  },
+  "ce:30:a1:03:bb:13": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.86",
+    "last_hostname": "-"
+  },
+  "aa:72:cc:df:a9:76": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.88",
+    "last_hostname": "-"
+  },
+  "22:e6:c3:19:a8:9c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.89",
+    "last_hostname": "-"
+  },
+  "0a:99:de:04:82:7f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.90",
+    "last_hostname": "-"
+  },
+  "46:83:f6:d1:98:d0": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.94",
+    "last_hostname": "-"
+  },
+  "34:c9:3d:7a:ee:0f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.96",
+    "last_hostname": "-"
+  },
+  "e2:de:8b:1c:ad:a1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.97",
+    "last_hostname": "-"
+  },
+  "a6:27:c9:2a:39:8c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.98",
+    "last_hostname": "-"
+  },
+  "64:bc:58:8a:73:d4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.99",
+    "last_hostname": "-"
+  },
+  "b8:f7:75:6c:b9:ed": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.100",
+    "last_hostname": "-"
+  },
+  "aa:43:11:e4:dc:5e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.109",
+    "last_hostname": "-"
+  },
+  "66:fe:85:1d:3e:e9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.110",
+    "last_hostname": "-"
+  },
+  "52:19:fd:db:e3:9c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.114",
+    "last_hostname": "-"
+  },
+  "28:3f:69:6a:01:29": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.116",
+    "last_hostname": "-"
+  },
+  "d2:50:ea:59:a4:23": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.117",
+    "last_hostname": "-"
+  },
+  "52:d7:d3:eb:c1:4a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.121",
+    "last_hostname": "-"
+  },
+  "d8:f2:ca:4f:d0:8f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.125",
+    "last_hostname": "-"
+  },
+  "2e:b5:de:28:29:68": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.138",
+    "last_hostname": "-"
+  },
+  "82:15:2a:05:b3:51": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.144",
+    "last_hostname": "-"
+  },
+  "80:b6:55:b8:3e:59": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.145",
+    "last_hostname": "-"
+  },
+  "1a:a1:b3:3d:2f:02": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.149",
+    "last_hostname": "-"
+  },
+  "a2:3c:c7:8d:c5:5a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.151",
+    "last_hostname": "-"
+  },
+  "2e:15:02:d9:64:9f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.152",
+    "last_hostname": "-"
+  },
+  "d4:57:63:cd:d0:78": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.155",
+    "last_hostname": "-"
+  },
+  "b2:8a:1b:2d:35:95": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.157",
+    "last_hostname": "-"
+  },
+  "ca:6d:ff:39:c3:0f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.158",
+    "last_hostname": "-"
+  },
+  "d2:ed:ec:88:bb:1a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.160",
+    "last_hostname": "-"
+  },
+  "1e:b2:c7:26:d3:0d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.161",
+    "last_hostname": "-"
+  },
+  "3a:91:b8:0d:01:97": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.163",
+    "last_hostname": "-"
+  },
+  "f6:57:b5:79:cf:24": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.166",
+    "last_hostname": "-"
+  },
+  "50:e0:85:81:fe:57": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.171",
+    "last_hostname": "-"
+  },
+  "5a:c3:fe:4f:22:ac": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.174",
+    "last_hostname": "-"
+  },
+  "ba:c1:4c:7f:c9:bf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.175",
+    "last_hostname": "-"
+  },
+  "12:7a:04:66:92:1a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.176",
+    "last_hostname": "-"
+  },
+  "7e:af:96:d1:07:56": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.186",
+    "last_hostname": "-"
+  },
+  "78:86:2e:51:1e:34": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.188",
+    "last_hostname": "-"
+  },
+  "4e:e4:4e:7a:ca:5f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.189",
+    "last_hostname": "-"
+  },
+  "86:d2:b1:49:9a:ee": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.196",
+    "last_hostname": "-"
+  },
+  "16:97:e6:f3:4c:2d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.202",
+    "last_hostname": "-"
+  },
+  "be:ef:9d:ac:8f:8d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.203",
+    "last_hostname": "-"
+  },
+  "3e:75:1b:ad:02:41": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.210",
+    "last_hostname": "-"
+  },
+  "30:35:ad:af:0b:60": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.211",
+    "last_hostname": "-"
+  },
+  "48:f1:7f:08:d8:88": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.215",
+    "last_hostname": "-"
+  },
+  "6a:29:46:3c:e1:68": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.217",
+    "last_hostname": "-"
+  },
+  "1c:57:dc:30:8f:53": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.219",
+    "last_hostname": "-"
+  },
+  "7e:0a:84:9d:c9:14": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.224",
+    "last_hostname": "-"
+  },
+  "f4:5c:89:bc:f1:31": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.225",
+    "last_hostname": "-"
+  },
+  "16:85:c8:71:b5:a2": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.226",
+    "last_hostname": "-"
+  },
+  "2c:3b:70:dd:5a:7b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.233",
+    "last_hostname": "-"
+  },
+  "0e:fb:d9:fe:b3:de": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.238",
+    "last_hostname": "-"
+  },
+  "74:3a:f4:20:99:c3": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.240",
+    "last_hostname": "-"
+  },
+  "96:0f:77:ff:10:4c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.241",
+    "last_hostname": "-"
+  },
+  "6a:29:46:bf:dd:0f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.245",
+    "last_hostname": "-"
+  },
+  "ee:0b:dc:97:ae:6c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.246",
+    "last_hostname": "-"
+  },
+  "3a:c9:6b:c8:2a:0d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.120.247",
+    "last_hostname": "-"
+  },
+  "92:41:75:2f:4a:88": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.250",
+    "last_hostname": "-"
+  },
+  "4a:e7:10:2f:16:0c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.120.255",
+    "last_hostname": "-"
+  },
+  "3e:bd:37:bf:74:a0": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.0",
+    "last_hostname": "-"
+  },
+  "96:8e:0f:81:76:39": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.5",
+    "last_hostname": "-"
+  },
+  "16:2f:bd:26:36:70": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.9",
+    "last_hostname": "-"
+  },
+  "74:c6:3b:59:28:3b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.15",
+    "last_hostname": "-"
+  },
+  "ba:a4:96:9c:8e:99": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.16",
+    "last_hostname": "-"
+  },
+  "e8:65:38:29:88:0f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.17",
+    "last_hostname": "-"
+  },
+  "8a:2b:d4:c8:a5:c6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.19",
+    "last_hostname": "-"
+  },
+  "e2:1d:90:6b:26:01": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.21",
+    "last_hostname": "-"
+  },
+  "18:56:80:ac:a2:a1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.22",
+    "last_hostname": "-"
+  },
+  "9c:58:84:1c:b3:cf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.23",
+    "last_hostname": "-"
+  },
+  "5e:f8:61:d3:54:35": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.25",
+    "last_hostname": "-"
+  },
+  "4a:66:51:18:bc:14": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.32",
+    "last_hostname": "-"
+  },
+  "00:41:0e:82:84:13": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.33",
+    "last_hostname": "-"
+  },
+  "5a:24:e0:ab:c5:a5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.34",
+    "last_hostname": "-"
+  },
+  "42:0b:b3:e0:19:43": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.40",
+    "last_hostname": "-"
+  },
+  "96:cd:c5:bb:a5:39": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.47",
+    "last_hostname": "-"
+  },
+  "16:d7:b9:34:89:d9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.49",
+    "last_hostname": "-"
+  },
+  "36:26:47:4f:c1:0e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.53",
+    "last_hostname": "-"
+  },
+  "00:93:37:0c:9c:43": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.56",
+    "last_hostname": "-"
+  },
+  "90:61:ae:48:bf:ac": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.58",
+    "last_hostname": "-"
+  },
+  "3a:78:69:fd:c5:96": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.61",
+    "last_hostname": "-"
+  },
+  "48:e7:da:11:6e:f9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.65",
+    "last_hostname": "-"
+  },
+  "52:e6:fb:31:7c:80": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.66",
+    "last_hostname": "-"
+  },
+  "26:26:e4:0a:13:1b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.70",
+    "last_hostname": "-"
+  },
+  "ae:3c:df:24:82:bc": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.71",
+    "last_hostname": "-"
+  },
+  "f4:c8:8a:35:16:96": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.73",
+    "last_hostname": "-"
+  },
+  "2e:71:21:84:93:28": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.76",
+    "last_hostname": "-"
+  },
+  "26:56:17:cb:12:14": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.77",
+    "last_hostname": "-"
+  },
+  "7e:6d:f7:fd:91:c4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.79",
+    "last_hostname": "-"
+  },
+  "66:54:d7:c3:eb:08": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.88",
+    "last_hostname": "-"
+  },
+  "e4:aa:ea:8f:e1:61": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.90",
+    "last_hostname": "-"
+  },
+  "36:dd:33:e0:89:06": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.91",
+    "last_hostname": "-"
+  },
+  "a4:fc:77:3a:ff:f9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.95",
+    "last_hostname": "-"
+  },
+  "f4:46:37:ca:c9:d9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.96",
+    "last_hostname": "-"
+  },
+  "76:d3:7e:fe:78:e7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.102",
+    "last_hostname": "-"
+  },
+  "04:ec:d8:6a:e4:4c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.106",
+    "last_hostname": "-"
+  },
+  "c0:bf:be:2a:32:4e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.111",
+    "last_hostname": "-"
+  },
+  "e6:e3:eb:4a:a0:ab": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.113",
+    "last_hostname": "-"
+  },
+  "e4:1f:d5:7b:b9:66": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.116",
+    "last_hostname": "-"
+  },
+  "f4:ce:23:e2:3d:1c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.117",
+    "last_hostname": "-"
+  },
+  "92:b0:38:ab:e9:bf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.118",
+    "last_hostname": "-"
+  },
+  "aa:3b:f8:59:50:e7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.120",
+    "last_hostname": "-"
+  },
+  "3e:5c:7d:8a:40:01": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.121",
+    "last_hostname": "-"
+  },
+  "86:6d:33:15:4f:d6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.123",
+    "last_hostname": "-"
+  },
+  "8c:3b:4a:bd:28:05": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.125",
+    "last_hostname": "-"
+  },
+  "ce:ec:cd:6d:96:22": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.127",
+    "last_hostname": "-"
+  },
+  "c0:b8:83:87:42:45": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.129",
+    "last_hostname": "-"
+  },
+  "fa:25:e6:e9:7a:ea": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.132",
+    "last_hostname": "-"
+  },
+  "14:7f:ce:9a:36:b6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.134",
+    "last_hostname": "-"
+  },
+  "9c:b7:0d:2b:fa:94": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.135",
+    "last_hostname": "-"
+  },
+  "4a:82:f7:30:ee:35": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.140",
+    "last_hostname": "-"
+  },
+  "3e:f1:18:67:7d:a5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.142",
+    "last_hostname": "-"
+  },
+  "8e:e0:fd:95:37:d8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.148",
+    "last_hostname": "-"
+  },
+  "0a:4a:b4:cf:39:b0": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.151",
+    "last_hostname": "-"
+  },
+  "20:c1:9b:1b:37:30": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.155",
+    "last_hostname": "-"
+  },
+  "b6:47:fa:ee:8d:ca": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.156",
+    "last_hostname": "-"
+  },
+  "c2:f8:f3:23:56:6b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.157",
+    "last_hostname": "-"
+  },
+  "d2:2a:90:0e:dc:1a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.160",
+    "last_hostname": "-"
+  },
+  "f0:18:98:62:76:77": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.163",
+    "last_hostname": "-"
+  },
+  "e6:2f:f9:9d:85:7d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.166",
+    "last_hostname": "-"
+  },
+  "42:94:33:fe:36:0c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.169",
+    "last_hostname": "-"
+  },
+  "0a:0f:f8:45:a4:66": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.171",
+    "last_hostname": "-"
+  },
+  "40:c7:3c:63:e5:de": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.172",
+    "last_hostname": "-"
+  },
+  "ea:e2:4f:c2:57:56": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.173",
+    "last_hostname": "-"
+  },
+  "50:bb:b5:e8:2f:c4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.178",
+    "last_hostname": "-"
+  },
+  "a2:a7:b1:7f:42:f5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.179",
+    "last_hostname": "-"
+  },
+  "6a:67:8f:5a:20:43": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.180",
+    "last_hostname": "-"
+  },
+  "92:81:f7:27:92:7a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.193",
+    "last_hostname": "-"
+  },
+  "16:39:91:51:fe:b6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.195",
+    "last_hostname": "-"
+  },
+  "1e:6a:47:97:56:71": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.199",
+    "last_hostname": "-"
+  },
+  "c8:09:a8:0c:29:bb": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.202",
+    "last_hostname": "-"
+  },
+  "ca:30:96:c9:bb:5c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.207",
+    "last_hostname": "-"
+  },
+  "de:be:eb:7e:af:bb": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.208",
+    "last_hostname": "-"
+  },
+  "c8:8a:9a:e2:09:32": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.212",
+    "last_hostname": "-"
+  },
+  "22:18:33:9c:25:86": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.213",
+    "last_hostname": "-"
+  },
+  "4e:49:7c:82:9d:e4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.216",
+    "last_hostname": "-"
+  },
+  "58:02:05:2b:4c:34": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.222",
+    "last_hostname": "-"
+  },
+  "26:c6:ce:fe:29:eb": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.227",
+    "last_hostname": "-"
+  },
+  "2e:07:a6:99:55:be": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.228",
+    "last_hostname": "-"
+  },
+  "6a:0b:36:23:8f:6f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.232",
+    "last_hostname": "-"
+  },
+  "d0:39:57:78:93:d1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.234",
+    "last_hostname": "-"
+  },
+  "86:81:68:ea:f5:ad": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.235",
+    "last_hostname": "-"
+  },
+  "84:94:37:d2:3a:42": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.236",
+    "last_hostname": "-"
+  },
+  "6a:a6:87:d3:23:2b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.121.240",
+    "last_hostname": "-"
+  },
+  "4a:0a:43:51:c2:89": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.244",
+    "last_hostname": "-"
+  },
+  "a6:c8:f1:40:9d:76": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.245",
+    "last_hostname": "-"
+  },
+  "92:83:96:b1:7a:b7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.247",
+    "last_hostname": "-"
+  },
+  "72:57:10:21:8f:85": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.248",
+    "last_hostname": "-"
+  },
+  "9c:58:84:20:dc:5b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.252",
+    "last_hostname": "-"
+  },
+  "e2:fe:1e:4d:d5:08": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.253",
+    "last_hostname": "-"
+  },
+  "8a:fe:e2:59:0a:7e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.121.255",
+    "last_hostname": "-"
+  },
+  "54:6c:eb:63:c6:9e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.1",
+    "last_hostname": "-"
+  },
+  "96:4c:cc:59:62:59": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.6",
+    "last_hostname": "-"
+  },
+  "c6:78:6e:10:e2:f3": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.8",
+    "last_hostname": "-"
+  },
+  "da:e7:c4:6c:73:9b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.11",
+    "last_hostname": "-"
+  },
+  "e6:6a:a4:f2:36:8e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.13",
+    "last_hostname": "-"
+  },
+  "1a:6a:34:1b:ad:38": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.18",
+    "last_hostname": "-"
+  },
+  "9a:92:4d:9b:87:00": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.20",
+    "last_hostname": "-"
+  },
+  "c6:81:73:43:ea:2d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.21",
+    "last_hostname": "-"
+  },
+  "74:13:ea:7f:d9:5b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.22",
+    "last_hostname": "-"
+  },
+  "d2:b7:aa:44:4c:b9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.32",
+    "last_hostname": "-"
+  },
+  "4e:f2:22:21:c5:7d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.35",
+    "last_hostname": "-"
+  },
+  "e4:1f:d5:a7:35:23": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.36",
+    "last_hostname": "-"
+  },
+  "5e:da:cd:0b:7f:67": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.37",
+    "last_hostname": "-"
+  },
+  "56:71:3d:c1:fe:9f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.38",
+    "last_hostname": "-"
+  },
+  "b8:31:b5:88:08:84": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.39",
+    "last_hostname": "-"
+  },
+  "9c:58:84:13:38:bf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.43",
+    "last_hostname": "-"
+  },
+  "a2:29:92:07:b7:f6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.45",
+    "last_hostname": "-"
+  },
+  "70:ae:d5:3f:1d:67": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.51",
+    "last_hostname": "-"
+  },
+  "da:7b:7c:fc:78:dc": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.53",
+    "last_hostname": "-"
+  },
+  "8a:65:ba:81:de:a2": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.55",
+    "last_hostname": "-"
+  },
+  "ee:c7:47:cf:7c:e6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.56",
+    "last_hostname": "-"
+  },
+  "3c:dc:bc:59:a7:b8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.57",
+    "last_hostname": "-"
+  },
+  "fe:fd:fc:d9:38:aa": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.58",
+    "last_hostname": "-"
+  },
+  "f2:b7:7a:c3:66:d8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.63",
+    "last_hostname": "-"
+  },
+  "3c:a6:f6:4c:fc:b8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.67",
+    "last_hostname": "-"
+  },
+  "28:d0:43:5f:1f:90": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.69",
+    "last_hostname": "-"
+  },
+  "7a:ac:7e:3d:9d:9e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.73",
+    "last_hostname": "-"
+  },
+  "f2:60:73:f9:66:18": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.83",
+    "last_hostname": "-"
+  },
+  "1a:46:15:b9:bf:bd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.87",
+    "last_hostname": "-"
+  },
+  "72:b0:85:ea:2b:9e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.91",
+    "last_hostname": "-"
+  },
+  "52:0e:23:a8:af:92": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.96",
+    "last_hostname": "-"
+  },
+  "f8:ff:c2:21:aa:cd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.103",
+    "last_hostname": "-"
+  },
+  "c2:51:d2:2b:1c:71": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.105",
+    "last_hostname": "-"
+  },
+  "10:6f:d9:bc:7d:e5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.106",
+    "last_hostname": "-"
+  },
+  "52:2c:b1:e0:86:bf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.109",
+    "last_hostname": "-"
+  },
+  "5a:80:2e:66:91:6a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.113",
+    "last_hostname": "-"
+  },
+  "8a:e1:3a:22:ae:7d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.114",
+    "last_hostname": "-"
+  },
+  "32:52:04:32:74:1b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.115",
+    "last_hostname": "-"
+  },
+  "dc:45:46:f8:4f:5d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.119",
+    "last_hostname": "-"
+  },
+  "b6:69:b9:3f:8a:f0": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.120",
+    "last_hostname": "-"
+  },
+  "26:67:c3:8a:dd:27": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.121",
+    "last_hostname": "-"
+  },
+  "ae:d0:53:7e:1e:95": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.124",
+    "last_hostname": "-"
+  },
+  "06:1f:b7:70:96:36": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.130",
+    "last_hostname": "-"
+  },
+  "0e:55:7c:6a:6a:b8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.133",
+    "last_hostname": "-"
+  },
+  "98:2c:bc:dc:8c:aa": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.134",
+    "last_hostname": "-"
+  },
+  "86:6b:6d:1e:2f:8d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.143",
+    "last_hostname": "-"
+  },
+  "4c:1d:96:6b:99:b4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.147",
+    "last_hostname": "-"
+  },
+  "82:25:11:95:d3:26": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.152",
+    "last_hostname": "-"
+  },
+  "0e:ab:7f:c4:3e:80": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.157",
+    "last_hostname": "-"
+  },
+  "fa:c0:0c:71:d9:f3": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.158",
+    "last_hostname": "-"
+  },
+  "16:6c:7c:6a:14:82": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.160",
+    "last_hostname": "-"
+  },
+  "bc:83:85:1d:9c:69": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.164",
+    "last_hostname": "-"
+  },
+  "d4:f3:2d:d2:39:d5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.165",
+    "last_hostname": "-"
+  },
+  "14:7f:ce:9a:0d:ac": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.167",
+    "last_hostname": "-"
+  },
+  "b6:a8:6e:d4:6d:50": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.168",
+    "last_hostname": "-"
+  },
+  "9a:4d:6f:26:1e:10": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.171",
+    "last_hostname": "-"
+  },
+  "ba:f2:83:ed:7a:9f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.176",
+    "last_hostname": "-"
+  },
+  "72:34:0e:3f:02:8b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.180",
+    "last_hostname": "-"
+  },
+  "3c:06:30:07:a8:f0": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.181",
+    "last_hostname": "-"
+  },
+  "d2:f6:bf:ff:56:3c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.183",
+    "last_hostname": "-"
+  },
+  "92:64:f3:e3:dc:ac": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.184",
+    "last_hostname": "-"
+  },
+  "56:5c:37:64:90:26": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.187",
+    "last_hostname": "-"
+  },
+  "a4:5e:60:ca:99:19": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.189",
+    "last_hostname": "-"
+  },
+  "2c:6d:c1:83:47:35": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.195",
+    "last_hostname": "-"
+  },
+  "1e:70:76:9b:13:e4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.198",
+    "last_hostname": "-"
+  },
+  "de:d0:91:04:79:e7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.201",
+    "last_hostname": "-"
+  },
+  "72:63:36:92:43:e2": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.202",
+    "last_hostname": "-"
+  },
+  "5a:2d:1f:7a:7a:e8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.203",
+    "last_hostname": "-"
+  },
+  "8a:8f:95:47:cc:36": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.214",
+    "last_hostname": "-"
+  },
+  "8c:1d:96:d1:41:9c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.215",
+    "last_hostname": "-"
+  },
+  "00:b8:b6:17:d1:5d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.216",
+    "last_hostname": "-"
+  },
+  "12:4a:9f:3e:86:57": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.217",
+    "last_hostname": "-"
+  },
+  "74:4c:a1:be:58:a1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.218",
+    "last_hostname": "-"
+  },
+  "7e:52:11:1d:23:7e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.220",
+    "last_hostname": "-"
+  },
+  "26:d0:c3:1f:77:bd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.226",
+    "last_hostname": "-"
+  },
+  "46:52:80:9c:d2:59": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.122.228",
+    "last_hostname": "-"
+  },
+  "1c:ce:51:17:20:a4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.230",
+    "last_hostname": "-"
+  },
+  "fa:ba:68:bd:36:ce": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.236",
+    "last_hostname": "-"
+  },
+  "92:e6:f1:aa:b9:60": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.238",
+    "last_hostname": "-"
+  },
+  "66:74:bf:a8:9e:63": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.243",
+    "last_hostname": "-"
+  },
+  "a8:e2:91:6a:73:ac": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.245",
+    "last_hostname": "-"
+  },
+  "2c:1b:3a:00:be:54": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.247",
+    "last_hostname": "-"
+  },
+  "9e:9d:21:b2:a5:49": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.250",
+    "last_hostname": "-"
+  },
+  "ba:ac:38:8b:8f:43": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.252",
+    "last_hostname": "-"
+  },
+  "42:6e:09:a6:d7:27": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.122.253",
+    "last_hostname": "-"
+  },
+  "36:63:86:25:3d:20": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.18",
+    "last_hostname": "-"
+  },
+  "8e:50:c9:7f:b3:c2": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.21",
+    "last_hostname": "-"
+  },
+  "a0:b3:39:92:8d:99": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.29",
+    "last_hostname": "-"
+  },
+  "68:34:21:25:ff:3a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.30",
+    "last_hostname": "-"
+  },
+  "b2:41:7f:9d:03:c4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.31",
+    "last_hostname": "-"
+  },
+  "b8:1e:a4:f9:ce:f1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.33",
+    "last_hostname": "-"
+  },
+  "3e:fc:2f:e0:7d:39": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.39",
+    "last_hostname": "-"
+  },
+  "a6:08:33:aa:4e:0a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.41",
+    "last_hostname": "-"
+  },
+  "22:28:7a:7c:de:d6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.45",
+    "last_hostname": "-"
+  },
+  "0a:75:7e:22:1e:cc": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.52",
+    "last_hostname": "-"
+  },
+  "32:3a:14:18:a7:42": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.53",
+    "last_hostname": "-"
+  },
+  "ba:27:f6:16:54:da": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.57",
+    "last_hostname": "-"
+  },
+  "06:9a:e4:45:32:0e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.58",
+    "last_hostname": "-"
+  },
+  "da:a5:85:09:18:21": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.62",
+    "last_hostname": "-"
+  },
+  "ba:e3:e5:ef:d3:e6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.63",
+    "last_hostname": "-"
+  },
+  "ea:db:52:da:2a:61": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.66",
+    "last_hostname": "-"
+  },
+  "26:d3:75:ed:29:1b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.69",
+    "last_hostname": "-"
+  },
+  "4a:2f:4d:8e:e7:e5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.123.70",
+    "last_hostname": "-"
+  },
+  "9a:d0:66:b2:56:cb": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.83",
+    "last_hostname": "-"
+  },
+  "96:b7:73:cf:cb:06": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.84",
+    "last_hostname": "-"
+  },
+  "9e:34:19:9a:92:55": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.91",
+    "last_hostname": "-"
+  },
+  "66:1a:96:4e:2e:e4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.102",
+    "last_hostname": "-"
+  },
+  "26:ee:f9:46:11:2d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.123.105",
+    "last_hostname": "-"
+  },
+  "a0:ab:1b:50:af:7b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.109",
+    "last_hostname": "-"
+  },
+  "92:f8:f0:ba:5b:08": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.110",
+    "last_hostname": "-"
+  },
+  "2e:af:f4:fd:ed:b5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.116",
+    "last_hostname": "-"
+  },
+  "40:a3:cc:c3:c8:23": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.117",
+    "last_hostname": "-"
+  },
+  "80:a9:97:24:55:40": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.120",
+    "last_hostname": "-"
+  },
+  "da:fa:3f:95:e9:67": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.121",
+    "last_hostname": "-"
+  },
+  "06:0f:6a:37:be:a6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.125",
+    "last_hostname": "-"
+  },
+  "dc:f5:05:cf:2a:dd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.126",
+    "last_hostname": "-"
+  },
+  "9a:1f:a3:10:da:84": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.131",
+    "last_hostname": "-"
+  },
+  "e2:0d:58:34:51:43": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.134",
+    "last_hostname": "-"
+  },
+  "62:71:dc:66:35:b4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.142",
+    "last_hostname": "-"
+  },
+  "c2:7d:c9:0e:12:86": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.143",
+    "last_hostname": "-"
+  },
+  "a0:e7:0b:89:49:78": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.123.148",
+    "last_hostname": "-"
+  },
+  "14:7f:ce:9f:dd:91": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.149",
+    "last_hostname": "-"
+  },
+  "ba:d3:bf:1e:6d:f6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.152",
+    "last_hostname": "-"
+  },
+  "86:9d:69:dd:d4:a9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.153",
+    "last_hostname": "-"
+  },
+  "3a:06:89:4f:fc:9b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.123.154",
+    "last_hostname": "-"
+  },
+  "86:68:c5:b2:e2:a9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.123.161",
+    "last_hostname": "-"
+  },
+  "56:4f:9b:b7:00:ba": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.164",
+    "last_hostname": "-"
+  },
+  "d4:57:63:f1:6b:e1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.171",
+    "last_hostname": "-"
+  },
+  "66:e8:00:cb:1d:36": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.175",
+    "last_hostname": "-"
+  },
+  "7a:bd:c2:aa:76:41": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.176",
+    "last_hostname": "-"
+  },
+  "52:a2:d9:7c:ee:dd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.179",
+    "last_hostname": "-"
+  },
+  "a0:78:17:a9:70:60": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.181",
+    "last_hostname": "-"
+  },
+  "2a:08:12:a7:29:08": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.193",
+    "last_hostname": "-"
+  },
+  "74:4c:a1:72:41:3b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.194",
+    "last_hostname": "-"
+  },
+  "46:0f:52:45:ea:dd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.196",
+    "last_hostname": "-"
+  },
+  "32:f5:7f:d9:34:7e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.198",
+    "last_hostname": "-"
+  },
+  "d2:28:ee:8b:c6:33": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.199",
+    "last_hostname": "-"
+  },
+  "f8:fe:5e:9d:e8:92": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.123.200",
+    "last_hostname": "-"
+  },
+  "8e:eb:48:3a:7e:54": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.201",
+    "last_hostname": "-"
+  },
+  "00:41:0e:d3:d4:47": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.205",
+    "last_hostname": "-"
+  },
+  "8a:db:4e:9f:10:87": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.206",
+    "last_hostname": "-"
+  },
+  "22:a0:7d:19:f0:03": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.210",
+    "last_hostname": "-"
+  },
+  "58:ce:2a:d7:39:26": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.217",
+    "last_hostname": "-"
+  },
+  "74:70:fd:ae:28:3d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.219",
+    "last_hostname": "-"
+  },
+  "c6:11:f2:be:39:81": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.224",
+    "last_hostname": "-"
+  },
+  "be:14:31:00:55:a9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.226",
+    "last_hostname": "-"
+  },
+  "c6:41:98:f5:8b:6a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.232",
+    "last_hostname": "-"
+  },
+  "02:d0:0f:12:05:a6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.239",
+    "last_hostname": "-"
+  },
+  "50:c2:e8:40:3a:5d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.240",
+    "last_hostname": "-"
+  },
+  "5c:e9:1e:a9:fe:04": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.246",
+    "last_hostname": "-"
+  },
+  "aa:2c:bc:69:c7:1b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.248",
+    "last_hostname": "-"
+  },
+  "24:b2:b9:23:bb:9f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.249",
+    "last_hostname": "-"
+  },
+  "62:dc:d8:e0:ca:e2": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.123.252",
+    "last_hostname": "-"
+  },
+  "56:18:0e:a8:a1:5c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.4",
+    "last_hostname": "-"
+  },
+  "c2:20:38:ec:e5:3e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.10",
+    "last_hostname": "-"
+  },
+  "7e:18:6f:c8:e1:16": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.16",
+    "last_hostname": "-"
+  },
+  "5a:87:59:5b:47:d5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.22",
+    "last_hostname": "-"
+  },
+  "10:91:d1:52:f9:04": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.24",
+    "last_hostname": "-"
+  },
+  "5a:a8:dd:f4:a1:88": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.26",
+    "last_hostname": "-"
+  },
+  "ea:8a:8d:1b:68:bf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.27",
+    "last_hostname": "-"
+  },
+  "7a:bf:82:6a:ad:cd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.36",
+    "last_hostname": "-"
+  },
+  "12:9e:cf:37:3e:9a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.45",
+    "last_hostname": "-"
+  },
+  "7c:2a:31:8b:37:d8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.47",
+    "last_hostname": "-"
+  },
+  "1e:17:44:41:42:31": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.51",
+    "last_hostname": "-"
+  },
+  "de:69:72:0e:71:ff": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.52",
+    "last_hostname": "-"
+  },
+  "32:d1:ca:9a:a9:e6": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.53",
+    "last_hostname": "-"
+  },
+  "be:5b:1f:ce:3c:a5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.62",
+    "last_hostname": "-"
+  },
+  "ea:88:1d:6e:45:16": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.63",
+    "last_hostname": "-"
+  },
+  "7a:a1:3a:cb:0c:40": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.66",
+    "last_hostname": "-"
+  },
+  "72:47:cb:b4:e0:04": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.72",
+    "last_hostname": "-"
+  },
+  "ee:ee:a5:31:80:11": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.73",
+    "last_hostname": "-"
+  },
+  "b2:c8:89:02:0e:07": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.76",
+    "last_hostname": "-"
+  },
+  "f0:e4:a2:cb:65:91": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.84",
+    "last_hostname": "-"
+  },
+  "b6:fc:8b:7f:33:ff": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.87",
+    "last_hostname": "-"
+  },
+  "3c:22:fb:1d:d9:52": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.95",
+    "last_hostname": "-"
+  },
+  "1e:12:e5:43:62:83": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.96",
+    "last_hostname": "-"
+  },
+  "4a:d5:91:5f:98:2a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.99",
+    "last_hostname": "-"
+  },
+  "16:3d:a5:3a:74:bb": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.101",
+    "last_hostname": "-"
+  },
+  "a2:53:ad:a5:95:c8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.102",
+    "last_hostname": "-"
+  },
+  "3c:22:fb:dd:6d:3a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.104",
+    "last_hostname": "-"
+  },
+  "5c:8a:ae:ea:ab:a7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.109",
+    "last_hostname": "-"
+  },
+  "92:41:27:cb:61:13": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.111",
+    "last_hostname": "-"
+  },
+  "ce:9f:ac:0b:0a:97": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.117",
+    "last_hostname": "-"
+  },
+  "7e:67:4d:af:f0:da": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.118",
+    "last_hostname": "-"
+  },
+  "ea:7c:49:19:f4:30": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.119",
+    "last_hostname": "-"
+  },
+  "cc:08:fa:77:2b:8b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.120",
+    "last_hostname": "-"
+  },
+  "e6:6a:d8:40:05:df": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.122",
+    "last_hostname": "-"
+  },
+  "4e:fd:86:cc:65:15": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.124",
+    "last_hostname": "-"
+  },
+  "02:c8:30:67:1e:d4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.126",
+    "last_hostname": "-"
+  },
+  "06:26:a5:21:f0:fd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.128",
+    "last_hostname": "-"
+  },
+  "32:ed:64:37:f6:26": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.130",
+    "last_hostname": "-"
+  },
+  "dc:a9:04:7c:11:81": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.134",
+    "last_hostname": "-"
+  },
+  "8a:23:1e:d6:83:0f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.136",
+    "last_hostname": "-"
+  },
+  "32:13:96:6c:fb:91": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.141",
+    "last_hostname": "-"
+  },
+  "8c:1d:96:cb:4c:10": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.142",
+    "last_hostname": "-"
+  },
+  "aa:24:fc:30:b4:0c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.143",
+    "last_hostname": "-"
+  },
+  "b2:6c:6b:47:2c:b1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.144",
+    "last_hostname": "-"
+  },
+  "62:01:82:fe:97:6c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.145",
+    "last_hostname": "-"
+  },
+  "b6:cb:c2:b6:7d:57": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.148",
+    "last_hostname": "-"
+  },
+  "42:80:61:bb:96:cb": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.150",
+    "last_hostname": "-"
+  },
+  "9a:5b:1d:67:47:12": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.152",
+    "last_hostname": "-"
+  },
+  "ea:5e:b9:f7:b1:3e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.153",
+    "last_hostname": "-"
+  },
+  "0e:dd:27:03:da:d3": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.155",
+    "last_hostname": "-"
+  },
+  "54:26:96:d3:21:71": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.158",
+    "last_hostname": "-"
+  },
+  "2a:dd:77:cd:b3:9e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.160",
+    "last_hostname": "-"
+  },
+  "4c:b0:4a:6b:ba:25": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.161",
+    "last_hostname": "-"
+  },
+  "ac:c9:06:04:c5:f8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.162",
+    "last_hostname": "-"
+  },
+  "4a:76:2c:c9:11:65": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.166",
+    "last_hostname": "-"
+  },
+  "32:b1:f3:b4:49:5d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.168",
+    "last_hostname": "-"
+  },
+  "46:3e:2a:c0:94:61": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.169",
+    "last_hostname": "-"
+  },
+  "32:23:d5:db:30:62": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.171",
+    "last_hostname": "-"
+  },
+  "c2:a6:f7:88:3b:e9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.172",
+    "last_hostname": "-"
+  },
+  "4a:c7:2c:02:ab:74": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.173",
+    "last_hostname": "-"
+  },
+  "9a:80:cf:27:70:77": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.182",
+    "last_hostname": "-"
+  },
+  "ae:99:cb:40:95:b7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.186",
+    "last_hostname": "-"
+  },
+  "42:35:9e:b8:27:6b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.188",
+    "last_hostname": "-"
+  },
+  "0c:9a:3c:38:da:bf": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.190",
+    "last_hostname": "-"
+  },
+  "ce:e0:15:55:fa:17": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.201",
+    "last_hostname": "-"
+  },
+  "46:1f:d0:8a:ca:2f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.202",
+    "last_hostname": "-"
+  },
+  "14:ab:c5:c8:d8:36": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.205",
+    "last_hostname": "-"
+  },
+  "4a:68:2e:1c:8c:63": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.206",
+    "last_hostname": "-"
+  },
+  "8e:42:c9:eb:29:6a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.211",
+    "last_hostname": "-"
+  },
+  "04:e8:b9:db:aa:65": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.216",
+    "last_hostname": "-"
+  },
+  "f6:f8:d2:fd:6f:a2": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.218",
+    "last_hostname": "-"
+  },
+  "a6:c5:35:0a:87:b1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.124.219",
+    "last_hostname": "-"
+  },
+  "dc:71:96:b9:4c:4a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.220",
+    "last_hostname": "-"
+  },
+  "be:36:1e:89:ad:23": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.226",
+    "last_hostname": "-"
+  },
+  "68:ca:c4:b2:66:86": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.231",
+    "last_hostname": "-"
+  },
+  "92:b1:7e:51:e4:d3": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.237",
+    "last_hostname": "-"
+  },
+  "e2:52:54:d0:bb:7a": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.239",
+    "last_hostname": "-"
+  },
+  "5c:e9:1e:b4:cf:7f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.240",
+    "last_hostname": "-"
+  },
+  "8e:ed:ad:17:ac:fe": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.246",
+    "last_hostname": "-"
+  },
+  "82:35:12:42:20:67": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.251",
+    "last_hostname": "-"
+  },
+  "f6:b0:cf:82:66:b4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.124.253",
+    "last_hostname": "-"
+  },
+  "42:00:14:83:40:f9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.1",
+    "last_hostname": "-"
+  },
+  "4e:7e:e7:8a:6b:ba": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.2",
+    "last_hostname": "-"
+  },
+  "76:78:da:60:59:b4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.3",
+    "last_hostname": "-"
+  },
+  "22:45:d7:ca:cc:c1": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.5",
+    "last_hostname": "-"
+  },
+  "7e:6a:48:51:af:51": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.8",
+    "last_hostname": "-"
+  },
+  "4e:6c:e5:07:07:58": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.10",
+    "last_hostname": "-"
+  },
+  "70:08:94:8d:e5:b5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.12",
+    "last_hostname": "-"
+  },
+  "ea:fd:b3:ee:a3:99": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.125.13",
+    "last_hostname": "-"
+  },
+  "fe:a7:93:ce:99:e4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.14",
+    "last_hostname": "-"
+  },
+  "c8:69:cd:c0:0b:da": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.20",
+    "last_hostname": "-"
+  },
+  "84:9e:56:19:86:ab": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.21",
+    "last_hostname": "-"
+  },
+  "4e:54:db:f0:f0:e8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.25",
+    "last_hostname": "-"
+  },
+  "52:6e:53:d5:fb:ae": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.28",
+    "last_hostname": "-"
+  },
+  "f6:ea:93:ec:f2:d4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.31",
+    "last_hostname": "-"
+  },
+  "da:bf:08:39:23:40": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.32",
+    "last_hostname": "-"
+  },
+  "b0:a3:f2:cd:ac:9d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.34",
+    "last_hostname": "-"
+  },
+  "e8:f4:08:ef:ec:b4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.36",
+    "last_hostname": "-"
+  },
+  "14:7f:ce:9f:1e:24": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.37",
+    "last_hostname": "-"
+  },
+  "7e:19:8b:9b:2e:e8": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.39",
+    "last_hostname": "-"
+  },
+  "90:78:41:49:10:0b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.40",
+    "last_hostname": "-"
+  },
+  "3a:af:eb:ff:2e:2d": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.47",
+    "last_hostname": "-"
+  },
+  "40:b8:9a:8f:2a:17": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.50",
+    "last_hostname": "-"
+  },
+  "a6:bf:48:69:9e:99": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.56",
+    "last_hostname": "-"
+  },
+  "5a:5f:b1:51:30:88": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.125.58",
+    "last_hostname": "-"
+  },
+  "66:ec:78:27:ff:9b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.60",
+    "last_hostname": "-"
+  },
+  "f4:d4:88:74:00:76": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.61",
+    "last_hostname": "-"
+  },
+  "3a:fa:6c:90:37:84": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:04:52",
+    "seen_count": 1,
+    "last_ip": "10.2.125.62",
+    "last_hostname": "-"
+  },
+  "3c:58:c2:e1:10:40": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.67",
+    "last_hostname": "-"
+  },
+  "10:b5:88:63:52:59": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.71",
+    "last_hostname": "-"
+  },
+  "a6:d3:12:14:b2:ba": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.73",
+    "last_hostname": "-"
+  },
+  "ba:aa:71:19:ec:4f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.82",
+    "last_hostname": "-"
+  },
+  "5e:6c:59:c5:8e:3b": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.86",
+    "last_hostname": "-"
+  },
+  "ac:50:de:1d:25:bd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.93",
+    "last_hostname": "-"
+  },
+  "62:bc:5d:d1:6d:c2": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.97",
+    "last_hostname": "-"
+  },
+  "e6:38:d5:32:1a:de": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.105",
+    "last_hostname": "-"
+  },
+  "b6:cf:e3:51:19:48": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.107",
+    "last_hostname": "-"
+  },
+  "8c:b8:7e:bf:9e:7e": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.111",
+    "last_hostname": "-"
+  },
+  "c8:5e:a9:e9:ea:b7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.117",
+    "last_hostname": "-"
+  },
+  "12:d6:e5:c8:b8:e4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.124",
+    "last_hostname": "-"
+  },
+  "aa:36:cd:6f:ed:40": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.127",
+    "last_hostname": "-"
+  },
+  "ca:3b:93:5c:ad:0f": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.129",
+    "last_hostname": "-"
+  },
+  "30:e3:a4:25:f8:96": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.132",
+    "last_hostname": "-"
+  },
+  "62:1d:33:44:ed:03": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.135",
+    "last_hostname": "-"
+  },
+  "80:a9:97:49:0d:66": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.137",
+    "last_hostname": "-"
+  },
+  "c2:46:4f:07:c3:fb": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.138",
+    "last_hostname": "-"
+  },
+  "ac:50:de:1c:85:07": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.143",
+    "last_hostname": "-"
+  },
+  "82:d0:9e:b6:50:f5": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.146",
+    "last_hostname": "-"
+  },
+  "42:cb:f7:ab:dc:f0": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.149",
+    "last_hostname": "-"
+  },
+  "b4:0e:de:b1:b3:40": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.152",
+    "last_hostname": "-"
+  },
+  "7e:da:37:55:bf:67": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.159",
+    "last_hostname": "-"
+  },
+  "b6:63:91:81:5c:06": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.161",
+    "last_hostname": "-"
+  },
+  "06:43:aa:77:f2:26": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.165",
+    "last_hostname": "-"
+  },
+  "98:bd:80:96:65:a9": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.167",
+    "last_hostname": "-"
+  },
+  "62:15:59:c9:9a:35": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.168",
+    "last_hostname": "-"
+  },
+  "5a:49:08:20:6b:23": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.178",
+    "last_hostname": "-"
+  },
+  "1e:19:3f:bf:41:65": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.188",
+    "last_hostname": "-"
+  },
+  "ee:ff:30:2b:a7:e3": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.189",
+    "last_hostname": "-"
+  },
+  "d6:0c:f2:c7:c9:d4": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.192",
+    "last_hostname": "-"
+  },
+  "38:f9:d3:bd:7c:9c": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.193",
+    "last_hostname": "-"
+  },
+  "72:62:b5:6d:c9:cd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.196",
+    "last_hostname": "-"
+  },
+  "8a:04:95:a1:6c:e7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.197",
+    "last_hostname": "-"
+  },
+  "0a:76:0a:28:31:87": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.202",
+    "last_hostname": "-"
+  },
+  "c2:6e:ff:f5:5b:79": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.204",
+    "last_hostname": "-"
+  },
+  "f2:0a:46:18:4b:cd": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.211",
+    "last_hostname": "-"
+  },
+  "4c:bb:58:a4:d5:ef": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.219",
+    "last_hostname": "-"
+  },
+  "b6:d2:af:eb:cf:e7": {
+    "first_seen": "2026-03-11 16:04:52",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 2,
+    "last_ip": "10.2.125.220",
+    "last_hostname": "-"
+  },
+  "e8:b0:c5:c2:b2:0d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.19",
+    "last_hostname": "-"
+  },
+  "52:8a:ce:63:54:ce": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.27",
+    "last_hostname": "-"
+  },
+  "82:97:ad:75:13:3c": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.36",
+    "last_hostname": "-"
+  },
+  "4a:d2:df:5a:ed:e7": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.72",
+    "last_hostname": "-"
+  },
+  "00:0c:e7:7e:6b:50": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.81",
+    "last_hostname": "-"
+  },
+  "cc:d9:ac:c5:fd:5a": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.126",
+    "last_hostname": "-"
+  },
+  "fe:af:32:54:12:6d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.168",
+    "last_hostname": "-"
+  },
+  "f6:62:fb:d1:9f:5e": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.206",
+    "last_hostname": "-"
+  },
+  "62:c8:bb:b0:e3:45": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.218",
+    "last_hostname": "-"
+  },
+  "8e:cb:ab:2e:5d:71": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.231",
+    "last_hostname": "-"
+  },
+  "d6:10:77:26:6c:4b": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.232",
+    "last_hostname": "-"
+  },
+  "8a:41:ee:d4:20:c5": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.249",
+    "last_hostname": "-"
+  },
+  "06:7d:1c:76:94:f5": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.120.253",
+    "last_hostname": "-"
+  },
+  "66:6f:c5:ca:4f:f3": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.28",
+    "last_hostname": "-"
+  },
+  "1a:04:7f:47:c9:8d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.42",
+    "last_hostname": "-"
+  },
+  "16:e6:23:be:a8:41": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.44",
+    "last_hostname": "-"
+  },
+  "60:e9:aa:a5:ef:6f": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.62",
+    "last_hostname": "-"
+  },
+  "3a:a8:03:60:53:74": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.141",
+    "last_hostname": "-"
+  },
+  "98:5f:d3:de:c0:6a": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.184",
+    "last_hostname": "-"
+  },
+  "a6:ed:f5:c5:83:ce": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.201",
+    "last_hostname": "-"
+  },
+  "80:a9:97:44:5c:28": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.121.223",
+    "last_hostname": "-"
+  },
+  "5a:5a:93:e8:43:7b": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.0",
+    "last_hostname": "-"
+  },
+  "d2:87:82:01:7e:86": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.97",
+    "last_hostname": "-"
+  },
+  "5e:eb:e4:28:c3:04": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.116",
+    "last_hostname": "-"
+  },
+  "6e:f7:33:b3:50:90": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.117",
+    "last_hostname": "-"
+  },
+  "40:c7:3c:a9:61:2c": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.182",
+    "last_hostname": "-"
+  },
+  "74:04:f1:a8:94:db": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.185",
+    "last_hostname": "-"
+  },
+  "9a:89:cc:83:91:d0": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.186",
+    "last_hostname": "-"
+  },
+  "72:b1:4a:5e:e4:7d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.122.223",
+    "last_hostname": "-"
+  },
+  "56:b2:8a:55:a5:91": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.123.79",
+    "last_hostname": "-"
+  },
+  "ba:48:cf:cd:b3:52": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.123.122",
+    "last_hostname": "-"
+  },
+  "aa:b2:2d:42:f5:ef": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.123.144",
+    "last_hostname": "-"
+  },
+  "ac:c9:06:0a:1a:4b": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.123.145",
+    "last_hostname": "-"
+  },
+  "92:6f:48:12:26:34": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.123.147",
+    "last_hostname": "-"
+  },
+  "2a:64:04:b4:00:d1": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.123.250",
+    "last_hostname": "-"
+  },
+  "26:20:7c:a0:60:31": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.123.253",
+    "last_hostname": "-"
+  },
+  "08:5b:d6:f4:96:8d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.11",
+    "last_hostname": "-"
+  },
+  "0e:65:e2:df:58:82": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.14",
+    "last_hostname": "-"
+  },
+  "32:08:ae:ef:1f:23": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.18",
+    "last_hostname": "-"
+  },
+  "5e:c4:0a:98:d8:fc": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.30",
+    "last_hostname": "-"
+  },
+  "ee:fc:e2:13:87:4b": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.38",
+    "last_hostname": "-"
+  },
+  "3e:ed:81:81:38:04": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.56",
+    "last_hostname": "-"
+  },
+  "be:72:c1:4a:04:71": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.71",
+    "last_hostname": "-"
+  },
+  "fa:5a:86:b5:4f:b8": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.83",
+    "last_hostname": "-"
+  },
+  "72:13:9a:bc:21:bc": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.214",
+    "last_hostname": "-"
+  },
+  "30:89:4a:f2:38:2f": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.221",
+    "last_hostname": "-"
+  },
+  "56:75:b0:9b:f5:7f": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.230",
+    "last_hostname": "-"
+  },
+  "f4:d1:08:5b:02:11": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.124.252",
+    "last_hostname": "-"
+  },
+  "80:65:7c:dc:78:57": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.18",
+    "last_hostname": "-"
+  },
+  "0c:7a:15:97:9c:e9": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.48",
+    "last_hostname": "-"
+  },
+  "0a:a4:e5:d9:6e:dc": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.85",
+    "last_hostname": "-"
+  },
+  "fe:e5:41:8d:70:47": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.104",
+    "last_hostname": "-"
+  },
+  "0a:10:33:72:95:33": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.147",
+    "last_hostname": "-"
+  },
+  "fe:68:2b:21:e3:50": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.151",
+    "last_hostname": "-"
+  },
+  "c6:e3:12:db:40:77": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.184",
+    "last_hostname": "-"
+  },
+  "86:36:44:c2:0b:70": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.191",
+    "last_hostname": "-"
+  },
+  "aa:dd:ca:55:b4:06": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.200",
+    "last_hostname": "-"
+  },
+  "86:64:e8:43:d1:6d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.216",
+    "last_hostname": "-"
+  },
+  "a2:ec:d6:b8:32:01": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.222",
+    "last_hostname": "-"
+  },
+  "fa:77:b7:0d:8a:a2": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.234",
+    "last_hostname": "-"
+  },
+  "ea:c0:38:89:1b:79": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.241",
+    "last_hostname": "-"
+  },
+  "d8:c0:a6:59:7d:41": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.243",
+    "last_hostname": "-"
+  },
+  "58:ce:2a:23:f0:0a": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.245",
+    "last_hostname": "-"
+  },
+  "00:a5:54:59:0b:00": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.246",
+    "last_hostname": "-"
+  },
+  "e6:7d:10:74:f2:5d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.248",
+    "last_hostname": "-"
+  },
+  "b0:47:e9:88:46:45": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.249",
+    "last_hostname": "-"
+  },
+  "42:1b:fd:02:3e:97": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.252",
+    "last_hostname": "-"
+  },
+  "3a:09:f3:d7:4c:0d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.125.254",
+    "last_hostname": "-"
+  },
+  "3c:06:30:1c:88:ec": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.11",
+    "last_hostname": "-"
+  },
+  "9e:24:2c:2b:31:b6": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.13",
+    "last_hostname": "-"
+  },
+  "1a:9d:48:bf:67:73": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.20",
+    "last_hostname": "-"
+  },
+  "fe:49:19:c0:da:c9": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.21",
+    "last_hostname": "-"
+  },
+  "86:6c:7d:32:4b:40": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.24",
+    "last_hostname": "-"
+  },
+  "78:36:90:95:9b:91": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.25",
+    "last_hostname": "-"
+  },
+  "0c:e4:41:f3:b3:28": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.30",
+    "last_hostname": "-"
+  },
+  "56:4d:e0:78:5c:3c": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.31",
+    "last_hostname": "-"
+  },
+  "d6:a4:92:9f:d4:0c": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.33",
+    "last_hostname": "-"
+  },
+  "d6:58:fd:6f:c4:4e": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.39",
+    "last_hostname": "-"
+  },
+  "8e:71:21:c2:1d:bf": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.41",
+    "last_hostname": "-"
+  },
+  "40:1c:83:78:9c:6d": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.45",
+    "last_hostname": "-"
+  },
+  "9a:71:43:25:13:9f": {
+    "first_seen": "2026-03-11 16:13:58",
+    "last_seen": "2026-03-11 16:13:58",
+    "seen_count": 1,
+    "last_ip": "10.2.126.126",
+    "last_hostname": "-"
+  },
+  "f8:34:41:8a:3d:51": {
+    "first_seen": "2026-03-12 01:07:36",
+    "last_seen": "2026-03-12 01:14:22",
+    "seen_count": 3,
+    "last_ip": "192.168.1.73",
+    "last_hostname": "-"
+  },
+  "be:e2:74:94:ac:8a": {
+    "first_seen": "2026-03-12 01:07:36",
+    "last_seen": "2026-03-12 01:14:22",
+    "seen_count": 3,
+    "last_ip": "192.168.1.75",
+    "last_hostname": "-"
+  },
+  "48:f1:eb:e7:22:fe": {
+    "first_seen": "2026-03-12 01:07:36",
+    "last_seen": "2026-03-12 01:14:22",
+    "seen_count": 2,
+    "last_ip": "192.168.1.87",
+    "last_hostname": "-"
+  },
+  "00:15:18:14:36:f0": {
+    "first_seen": "2026-03-12 01:07:36",
+    "last_seen": "2026-03-12 01:42:11",
+    "seen_count": 4,
+    "last_ip": "192.168.1.118",
+    "last_hostname": "-"
+  },
+  "ce:5b:66:93:85:99": {
+    "first_seen": "2026-03-12 01:11:56",
+    "last_seen": "2026-03-12 01:42:11",
+    "seen_count": 2,
+    "last_ip": "192.168.1.66",
+    "last_hostname": "-"
+  },
+  "webgui.nokiawifi.com": {
+    "first_seen": "2026-03-12 01:33:12",
+    "last_seen": "2026-03-12 01:40:29",
+    "seen_count": 4,
+    "last_ip": "192.168.1.1",
+    "last_hostname": "-"
+  },
+  "mylaptopjuan": {
+    "first_seen": "2026-03-12 01:33:12",
+    "last_seen": "2026-03-12 01:40:29",
+    "seen_count": 4,
+    "last_ip": "192.168.1.67",
+    "last_hostname": "-"
+  },
+  "-": {
+    "first_seen": "2026-03-12 01:33:12",
+    "last_seen": "2026-03-12 01:40:29",
+    "seen_count": 13,
+    "last_ip": "192.168.1.118",
+    "last_hostname": "-"
+  },
+  "hp9b405e": {
+    "first_seen": "2026-03-12 01:33:12",
+    "last_seen": "2026-03-12 01:40:29",
+    "seen_count": 4,
+    "last_ip": "192.168.1.106",
+    "last_hostname": "-"
+  }
+}

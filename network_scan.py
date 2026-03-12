@@ -8,15 +8,23 @@ from storage import (
     load_known_devices,
     save_known_devices,
     load_scan_history,
-    compare_with_last_scan,
-    build_scan_snapshot,
     save_scan_history,
+    build_scan_snapshot,
+    compare_with_last_scan,
+    load_device_timeline,
+    save_device_timeline,
+    update_device_timeline,
 )
 from scanner import lookup_vendor, resolve_hostname, scan_ports
 from device_detection import detect_device_type
 from config import TRUSTED_DEVICES
 from risk_analysis import calculate_risk, get_device_status
-from reports import build_main_table, build_new_device_table, show_network_changes
+from reports import (
+    build_main_table,
+    build_new_device_table,
+    show_network_changes,
+    export_csv,
+)
 
 
 def main():
@@ -50,6 +58,7 @@ def main():
 
     known_data = load_known_devices()
     known_macs = known_data.get("known_macs", [])
+    timeline_data = load_device_timeline()
 
     devices = []
 
@@ -60,17 +69,24 @@ def main():
 
         if full_scan:
             hostname = resolve_hostname(ip)
-
             open_ports = scan_ports(ip)
             device_type = detect_device_type(hostname, vendor, open_ports, mac)
 
             is_trusted = mac in TRUSTED_DEVICES
             is_new = mac not in known_macs
 
-            risk_score, risk_level, _ = calculate_risk(
+            risk_score, risk_level, risk_reasons = calculate_risk(
                 open_ports, vendor, device_type, is_trusted
             )
+            risk_reason = ", ".join(risk_reasons) if risk_reasons else "-"
+
             status = get_device_status(mac, vendor, device_type, risk_level, is_new)
+
+            mac_key = mac.lower()
+            timeline_entry = timeline_data.get(mac_key, {})
+            first_seen = timeline_entry.get("first_seen", "-")
+            last_seen = timeline_entry.get("last_seen", "-")
+            seen_count = timeline_entry.get("seen_count", 0)
 
             devices.append(
                 (
@@ -83,23 +99,49 @@ def main():
                     status,
                     risk_level,
                     risk_score,
+                    risk_reason,
+                    first_seen,
+                    last_seen,
+                    seen_count,
                 )
             )
         else:
-            device_type = detect_device_type("-", vendor, [], mac)
+            hostname = resolve_hostname(ip)
+
+            device_type = detect_device_type(hostname, vendor, [], mac)
 
             is_trusted = mac in TRUSTED_DEVICES
             is_new = mac not in known_macs
 
-            risk_score, risk_level, _ = calculate_risk(
+            risk_score, risk_level, risk_reasons = calculate_risk(
                 [], vendor, device_type, is_trusted
             )
+            risk_reason = ", ".join(risk_reasons) if risk_reasons else "-"
+
             status = get_device_status(mac, vendor, device_type, risk_level, is_new)
 
-            devices.append(
-                (ip, mac, vendor, device_type, status, risk_level, risk_score)
-            )
+            mac_key = mac.lower()
+            timeline_entry = timeline_data.get(mac_key, {})
+            first_seen = timeline_entry.get("first_seen", "-")
+            last_seen = timeline_entry.get("last_seen", "-")
+            seen_count = timeline_entry.get("seen_count", 0)
 
+            devices.append(
+                (
+                    ip,
+                    hostname,
+                    mac,
+                    vendor,
+                    device_type,
+                    status,
+                    risk_level,
+                    risk_score,
+                    risk_reason,
+                    first_seen,
+                    last_seen,
+                    seen_count,
+                )
+            )
     # IP 排序
     devices.sort(key=lambda x: ip_address(x[0]))
 
@@ -126,6 +168,8 @@ def main():
 
     # 更新 known_devices.json
     save_known_devices(current_macs)
+    timeline_data = update_device_timeline(devices, full_scan, timeline_data)
+    save_device_timeline(timeline_data)
 
     history = load_scan_history()
     current_snapshot = build_scan_snapshot(devices, full_scan=full_scan)
@@ -167,9 +211,9 @@ def main():
     print("中風險設備數量:", medium_risk_count)
 
     # 是否匯出 CSV
-    # export_choice = input("\n是否匯出 CSV？(y/n): ").strip().lower()
-    # if export_choice == "y":
-    #     export_csv(devices, full_scan=full_scan)
+    export_choice = input("\n是否匯出 CSV？(y/n): ").strip().lower()
+    if export_choice == "y":
+        export_csv(devices, full_scan=full_scan)
 
 
 if __name__ == "__main__":
