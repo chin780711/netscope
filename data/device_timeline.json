@@ -4047,9 +4047,9 @@
   },
   "-": {
     "first_seen": "2026-03-12 01:33:12",
-    "last_seen": "2026-03-12 02:06:26",
-    "seen_count": 18,
-    "last_ip": "192.168.1.118",
+    "last_seen": "2026-03-28 16:40:07",
+    "seen_count": 129,
+    "last_ip": "192.168.1.249",
     "last_hostname": "-"
   },
   "hp9b405e": {
@@ -4057,6 +4057,27 @@
     "last_seen": "2026-03-12 02:06:26",
     "seen_count": 5,
     "last_ip": "192.168.1.106",
+    "last_hostname": "-"
+  },
+  "mylaptopjuan.home.local": {
+    "first_seen": "2026-03-28 16:34:40",
+    "last_seen": "2026-03-28 16:40:07",
+    "seen_count": 2,
+    "last_ip": "192.168.1.184",
+    "last_hostname": "-"
+  },
+  "macbookpro-ef85": {
+    "first_seen": "2026-03-28 16:34:40",
+    "last_seen": "2026-03-28 16:34:40",
+    "seen_count": 1,
+    "last_ip": "192.168.1.203",
+    "last_hostname": "-"
+  },
+  "npia7c7bd": {
+    "first_seen": "2026-03-28 16:34:40",
+    "last_seen": "2026-03-28 16:40:07",
+    "seen_count": 2,
+    "last_ip": "192.168.1.228",
     "last_hostname": "-"
   }
 }
